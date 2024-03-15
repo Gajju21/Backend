@@ -1,0 +1,16 @@
+{
+  "name": "gk_backend",
+  "version": "1.0.0",
+  "description": "backend learningg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "gk"
+  ],
+  "author": "Gajendra Kashyap",
+  "license": "ISC"
+}
